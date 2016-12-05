@@ -1,0 +1,25 @@
+{
+  "name": "node-laravel-statsbot_nossl",
+  "version": "1.0.0",
+  "description": "NodeJS Laravel Opcash bot. Updating stats and live drops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayonaralive/node-laravel-statsbot.git"
+  },
+  "author": "sayonaralive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayonaralive/node-laravel-statsbot/issues"
+  },
+  "homepage": "https://github.com/sayonaralive/node-laravel-statsbot#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "requestify": "^0.2.5",
+    "socket.io": "^1.7.1"
+  }
+}
